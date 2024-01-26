@@ -20,7 +20,7 @@ const About: NextPage = () => {
                   <p>
                     Hi! My name is Iputu Indrawan. I'm a budding programmer, and I'm very passionate and dedicated to my hobby.                  
                     With self-taught experience, I have acquired some of the skills and 
-                    knowledge necessary to create a rest apis project. 
+                    knowledge necessary to create a rest APIs project. 
                     I enjoy every step of the design process, from discussions and collaboration.
                   </p>
                 </div>
@@ -53,7 +53,7 @@ const About: NextPage = () => {
                     <div className="buttons padd-15">
                       <a
                         href="https://putz.my.id"
-                        target="_target"
+                        target="_blank"
                         className="btn"
                       >
                         Free Rest Apis
