@@ -11,23 +11,20 @@ export default async function Home() {
               alt="Al Siam Profile"
               className="shadow-dark"
             />
-            <h1>Your Name</h1>
-            <p>Your expertise</p>
+            <h1>iPutzx</h1>
+            <p>Programer Pemula</p>
             <div className="social-links">
-              <a href="https://twitter.com/" target="_blank">
-                <i className="fa fa-twitter" />
-              </a>
-              <a href="https://facebook.com/" target="_blank">
-                <i className="fa fa-facebook" />
-              </a>
-              <a href="https://github.com/" target="_blank">
+              <a href="https://wa.me/6285658939117" target="_blank">
+                <i className="fa fa-whatsapp" />
+              </a>         
+              <a href="https://github.com/putuofc" target="_blank">
                 <i className="fa fa-github" />
               </a>
-              <a href="https://instagram.com/" target="_blank">
+              <a href="https://www.instagram.com/putuofc" target="_blank">
                 <i className="fa fa-instagram" />
               </a>
-              <a href="https://linkedin.com/in/" target="_blank">
-                <i className="fa fa-linkedin" />
+              <a href="https://youtube.com/@iPutu_?si=hcPCWOmjgMDVYk8f" target="_blank">
+                <i className="fa fa-youtube" />
               </a>
             </div>
           </div>
